@@ -24,6 +24,7 @@ ota = OTAManager()
 # ota.check_and_update() # અત્યારે આને કોમેન્ટ (બૂઝી) રાખેલું છે. જ્યારે અપડેટ કરવું હોય ત્યારે જ આને કોલ કરાવાય.
 
 print("\n=== ⚙️ MOBILE AUTO SWITCH BOOT SEQUENCE ===")
+print("\n=== OTA ===")
 
 # --- 🔍 ડાયગ્નોસ્ટિક: ડાયરેક્ટરી સ્કેનિંગ ---
 print("[DIAGNOSTIC] Current Working Directory:", uos.getcwd())
