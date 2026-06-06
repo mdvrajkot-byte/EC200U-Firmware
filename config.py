@@ -7,4 +7,4 @@ class Config:
     APN = "airtelgprs.com"
     MASTER_VOLUME = 3 
     
-    OTA_UPDATE_URL = "https://raw.githubusercontent.com/તમારું-યુઝરનેમ/તમારો-પ્રોજેક્ટ/main/main.py"
+    OTA_UPDATE_URL = "https://raw.githubusercontent.com/mdvrajkot-byte/EC200U-Firmware/main/main.py"
